@@ -17,3 +17,9 @@ Lua toolkit for developers building epic Roblox games.
 > - sensei.UI should provide a seperate UI framework for UI element rendering and management
 > - sensei.Test should provide a test harness for functional testing and mocking
 > - Documentation, testing, and graphics work will be required as well
+
+Contributors are invited to join in!
+Be sure to read up on the following topics:
+
+* Guidelines for contributing code [Contributing Guidelines](CONTRIBUTING.md)
+* Follow the [Style Guide](STYLE.md) for writing sensei code
