@@ -18,10 +18,10 @@ Lua toolkit for developers building epic Roblox games.
 > - sensei.Test should provide a test harness for functional testing and mocking
 > - Documentation, testing, and graphics work will be required as well
 
+&nbsp;
+
 Contributors are invited to join in!
 Be sure to read up on the following topics:
-
-&nbsp;
 
 * Guidelines for contributing code [Contributing Guidelines](CONTRIBUTING.md)
 * Follow the [Style Guide](STYLE.md) for writing sensei code
