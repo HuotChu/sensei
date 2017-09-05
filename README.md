@@ -25,3 +25,4 @@ Be sure to read up on the following topics:
 
 * Guidelines for contributing code [Contributing Guidelines](CONTRIBUTING.md)
 * Follow the [Style Guide](STYLE.md) for writing sensei code
+* By contributing to this repository, you agree to the [Individual Contributor License Agreement](CLA.md)
